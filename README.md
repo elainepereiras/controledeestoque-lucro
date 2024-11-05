@@ -1,2 +1,2 @@
-# vba.controledeestoque-lucro
-Controle de Estoque + Lucro - Completo
+# vba.controledeestoque+lucro
+Controle de Estoque + Lucro
