@@ -1,2 +1,2 @@
-# vba.controledeestoque+lucro
-Controle de Estoque + Lucro
+# Controle de Estoque + Lucro
+Sistema desenvolvido para qualquer estabelecimento que tenha estoque.
